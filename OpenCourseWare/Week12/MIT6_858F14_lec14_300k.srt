@@ -7127,13 +7127,8 @@ ketika server mendapatkan
 
 1507
 01:04:19,819 --> 01:04:21,360
-<<<<<<< HEAD
-cookie dari klien,
+cookie dari klien, 
 semua yang didapat
-=======
-Sebuah cookie dari
-klien, yang didapatkan hanyalah
->>>>>>> 0ffc05d32c219246cac02e3187d56fa744e0ec80
 
 1508
 01:04:21,360 --> 01:04:24,200
