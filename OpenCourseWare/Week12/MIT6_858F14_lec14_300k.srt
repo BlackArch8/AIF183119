@@ -7127,8 +7127,8 @@ ketika server mendapatkan
 
 1507
 01:04:19,819 --> 01:04:21,360
-a cookie from the
-client, all it gets
+cookie dari klien,
+semua yang didapat
 
 1508
 01:04:21,360 --> 01:04:24,200
